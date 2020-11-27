@@ -1,0 +1,21 @@
+[{
+    "img": "../assets/london.jpg",
+    "alt": "London",
+    "name": "London",
+    "button": "View Destination"
+},{
+    "img": "../assets/venice.jpg",
+    "alt": "Venice",
+    "name": "Venice",
+    "button": "View Destination"
+},{
+    "img": "../assets/jamaica.jpg",
+    "alt": "Jamaica",
+    "name": "Jamaica",
+    "button": "View Destination"
+},{
+    "img": "../assets/maldives.jpg",
+    "alt": "Maldives",
+    "name": "Maldives",
+    "button": "View Destination"
+}]
